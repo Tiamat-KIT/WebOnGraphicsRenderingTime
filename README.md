@@ -17,10 +17,10 @@ https://sbfl.net/blog/2017/06/23/webgl2-2d-graphics/
 - とんでも量の制御
 https://techblog.kayac.com/webgl-gpu-instancing-transform-feedback
 
--　奥行き表現
+- 奥行き表現
 https://qiita.com/aa_debdeb/items/128ccb6fa245b6f618b3
 
--　アンチエイリアス
+- アンチエイリアス
 https://ics.media/web3d-maniacs/webgl2_renderbufferstoragemultisample/
 
 - 回転の参考になりそうなリンク
